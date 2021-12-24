@@ -1,2 +1,2 @@
 # go
-Some training program code in golang
+Some training code in golang
